@@ -28,7 +28,7 @@ v0.8
 - Commands changes
 
 ## Download Link
-- http://ddl.to/d/7eZ96
+- https://devuploads.com/ql3ictcbpqrf
 
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
