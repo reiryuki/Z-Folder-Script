@@ -22,7 +22,7 @@ v1.0
 - Copies audio.rc files
 
 v0.9
-- Copies /data/adb/_uninstall.log instead of /data/media//*_uninstall.log
+- Copies /data/adb/_uninstall.log instead of /data/media/\*/*_uninstall.log
 
 v0.8
 - Commands changes
