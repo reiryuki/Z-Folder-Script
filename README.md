@@ -8,6 +8,11 @@
 
 ## Changelog
 
+v1.4
+- Dynamic path (does not hardcode to /sdcard)
+- Copies /data/adb/logs/\*
+- Compress z folder automatically to z.tar.gz
+
 v1.3
 - Includes .log.bak
 
@@ -28,11 +33,11 @@ v0.8
 - Commands changes
 
 ## Download Link
-- https://devuploads.com/ql3ictcbpqrf
+https://github.com/reiryuki/Z-Folder-Script
 
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
 - https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/ryukinotes/25
+https://t.me/ryukinotes/25
