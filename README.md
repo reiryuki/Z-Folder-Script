@@ -35,6 +35,9 @@ v0.8
 ## Download Link
 https://bicolink.com/kbhyfLTvQi
 
+## Download Tutorial
+https://t.me/ryukinotes/97
+
 ## Credits and contributors
 - https://t.me/androidryukimodsdiscussions
 - https://t.me/androidappsportdevelopment
