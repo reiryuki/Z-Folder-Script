@@ -36,7 +36,7 @@ v0.8
 - Commands changes
 
 ## Download Link
-https://github.com/reiryuki/Z-Folder-Script
+https://move2link.co/ef8e31a
 
 ## Download Tutorial
 https://t.me/ryukinotes/97
