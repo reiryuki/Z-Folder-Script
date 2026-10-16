@@ -8,6 +8,9 @@
 
 ## Changelog
 
+v1.5
+- Fix bugs
+
 v1.4
 - Dynamic path (does not hardcode to /sdcard)
 - Copies /data/adb/logs/\*
@@ -33,7 +36,7 @@ v0.8
 - Commands changes
 
 ## Download Link
-https://bicolink.com/kbhyfLTvQi
+https://github.com/reiryuki/Z-Folder-Script
 
 ## Download Tutorial
 https://t.me/ryukinotes/97
